@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/gZE8G7gJqvOZTNRSEg/giphy.gif" width="150"><br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFpbzFjY2VmdTl0djh4NTdjejM1cjc2anI3YXRtbnJvaDZzMjN3cSZjdD10cw/ZDTbix65Me1YDNLDF3/giphy.gif" alt="VS Code" width="200"><br>
  
-  <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+<!--   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> -->
 </p>
 <br>
 <br>
